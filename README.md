@@ -54,5 +54,7 @@ Data Analyst skilled in:
 - SQL
 - Python
 - Microsoft Fabric
+- Machine Learning
+- AI
 
 GitHub: https://github.com/bidhansen1-dotcom
